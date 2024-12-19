@@ -8,20 +8,31 @@ Datum: 13/12/24 Jag tog initiativ till ett nytt försök att samla gruppen för 
 Datum: 14/12/24 Då det saknades tydlig ansvarsuppdelning i gruppen tog jag på mig rollen som projektledare. Jag arbetade med att gå igenom kundprofilen och utforma en kravspecifikation för projektet.
 
 Kravspecifikation:
+
 Inledning
+
 Målet är att skapa en responsiv, lekfull och lättanvänd webbplats som stärker varumärket och förbättrar kundupplevelsen.
+
 Funktionella krav
 Startsida: Välkomstsektion med slogan och snabblänkar till "Meny" och "Kontakta oss".
+
 Dynamiskt innehåll: Sektion med "Veckans specialrätter" (data hämtas via JSON).
+
 Meny-sida: Dynamisk meny som hämtas via JSON, möjlighet att markera favoriter (lagring i webbläsarens lokala lagring), samt beskrivningar av rätterna.
+
 Kontakt- och Om-sida: Kontaktinformation med "Ring oss"-knapp och en sektion om restaurangens bakgrund och vanliga frågor.
+
 Tekniska krav
 Responsiv design för mobil, surfplatta och desktop.
 Dynamisk datahantering via JSON.
+
 Lokal lagring för favoriter i webbläsarens lokala lagring.
+
 Design- och UX-krav
 Visuell identitet: Lekfull stil som återspeglar varumärkets image.
-Användarglädje: Bekräftande visuell feedback vid markering av favoriter. / Isak Jansson
+
+Användarglädje: Bekräftande visuell feedback vid markering av favoriter. 
+/ Isak Jansson
 
 Datum: 15/12/24 Jag designade hela webbplatsen i Figma baserat på den kravspecifikation jag tidigare tog fram. För att optimera tid och resurser prioriterades vissa specifikationer över andra. För att minska den tekniska komplexiteten valde jag att satsa mer på lekfull text och enkel design än på avancerade visuella effekter.
 Jag skapade även en kanban-tavla i Trello för att dela upp projektet i tydliga arbetsuppgifter. Tavlan innehöll kolumner för "Backlog", "HTML", "CSS", "JavaScript" och "Done" för att vi enkelt skulle kunna följa arbetsflödet och få en överblick över projektets framsteg. / Isak Jansson
