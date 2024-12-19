@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pho-Qing</title>
+</head>
+<body>
+
+<header>
+    <h1>Pho-Qing</h1>
+    
+    <nav class="nav">
+        <ul class="nav-list">
+            <li><a href="#home">Hem</a></li>
+            <li><a href="#menu">Vår meny</a></li>
+            <li><a href="#contact">Kontakt</a></li>
+    <nav>
+       
+    </nav>
+    <section id="home" class="hero-section" style="background-image: url(BILD,HÄR;PLZ); background-size: cover; background-position: center; height: 400px; display: flex; align-items: center; justify-content: center; color: #000000; text-align: center;"></section>
+    <p>Smakfullt, Lekfullt, Oförglömligt</p>
+</header>
+
+<div class="content">
+    <h2>Veckans specialrätter</h2>
+    <div class="special-dishes">
+        <div class="dish">
+            <img src="pho.jpg" alt="Klassisk Pho"> <!-- Behöver funkerande bild -->
+            <h3>Klassisk Pho</h3>
+            <p>Lorem ipsum orem ipsum orem ipsum orem ipsum orem ipsum orem ipsum orem ipsumorem ipsumorem <br> ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsumorem ipsum
+                Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem <br>ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum.
+                Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem <br>ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum..</p>
+        </div>
+        <div class="dish">
+            <img src="banh-mi.jpg" alt="Bánh mì"> <!-- Behöver funkerande bild -->
+            <h3>Bánh mì</h3>
+            <p>Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem <br>ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum.
+                Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem <br>ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum.
+                Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem <br>ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum.</p>
+        </div>
+        <div class="dish">
+            <img src="banh-xeo.jpg" alt="Bánh xèo"> <!-- Behöver funkerande bild -->
+            <h3>Bánh xèo</h3>
+            <p>Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem <br>ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum
+                Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem <br>ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum.
+                Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem <br>ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum..</p>
+        </div>
+    </div>
+
+    <div class="cta">
+        <button>Ring och boka bord</button>
+    </div>
+</div>
+
+<footer>
+    <div class="map">
+        <img src="map.jpg" alt="Map" width="100%"> <!-- Behöver funkerande bild -->
+    </div>
+    <p>Address: Magnus Ladulås 12, Stad</p>
+    <p>Telefon: 012-3456789</p>
+</footer>
+
+</body>
+</html>
